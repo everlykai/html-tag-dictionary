@@ -19,7 +19,7 @@ Lists (defines ordered/unordered list of items)
         <ul> </ul>
 
 
-List Item (defines list of ordered/ unordered items)
+List Item (defines items in list of ordered/ unordered items)
         <li> </li>
 
 
