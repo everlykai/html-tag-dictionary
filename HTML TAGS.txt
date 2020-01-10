@@ -1,0 +1,27 @@
+﻿HTML TAGS
+Heading (h1-h6 bolds and enlarges the text)
+        <h1> </h1>
+<h2> </h2>
+
+
+Image (attributes an image)
+        <img> </img>
+        Attributes: src, width, height, framborder
+
+
+Links (anchor tag, links to another internet location)
+        <a> </a>
+        Attributes: href=”https://website.com”
+
+
+Lists (defines ordered/unordered list of items)
+        <ol> </ol>
+        <ul> </ul>
+
+
+List Item (defines list of ordered/ unordered items)
+        <li> </li>
+
+
+Paragraph (specifies a paragraph, creates new line)
+        <p> </p>
