@@ -2,6 +2,9 @@
 a- Links (anchor tag, links to another internet location)
         <a> </a>
         Attributes: href=”https://website.com”
+        
+div - division (defines a section, used as a container to style or perform tasks)
+        <div> </div>
 
 h1- Heading (h1-h6 bolds and enlarges the text)
         <h1> </h1>
@@ -11,12 +14,16 @@ img- Image (attributes an image)
         <img>
         Attributes: src, width, height, framborder
 
+li- List Item (defines items in list of ordered/ unordered items)
+        <li> </li>
+        
 ol/ul- Lists (defines ordered/unordered list of items)
         <ol> </ol>
         <ul> </ul>
-
-li- List Item (defines items in list of ordered/ unordered items)
-        <li> </li>
-
+        
 P- Paragraph (specifies a paragraph, creates new line)
         <p> </p>
+
+style- (placed in headings, used to change appearance)
+        style= ""
+        atrributes: font-style, color, etc.
