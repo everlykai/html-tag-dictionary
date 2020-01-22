@@ -3,6 +3,9 @@ a- Links (anchor tag, links to another internet location)
         <a> </a>
         Attributes: href=”https://website.com”
         
+br- break (like pressing "enter")
+        <br>
+        
 div - division (defines a section, used as a container to style or perform tasks)
         <div> </div>
 
